@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b99f6ed6-ebb0-4d45-a8ab-c47410e8f48e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/main/java/Db.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/main/java/DbSetting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/src/main/java/MyEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service/src/main/java/MyService.java" afterDir="false" />
-    </list>
+    <list default="true" id="b99f6ed6-ebb0-4d45-a8ab-c47410e8f48e" name="Changes" comment="Task completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662367648303</updated>
     </task>
+    <task id="LOCAL-00001" summary="Task completed">
+      <created>1662377951738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662377951738</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +106,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task completed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
